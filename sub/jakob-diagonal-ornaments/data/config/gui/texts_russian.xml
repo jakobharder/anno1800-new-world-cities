@@ -1,0 +1,92 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500010428</GUID>
+      <Text>Озелененая стена</Text> <!-- Enclosed Greenery -->
+    </Text>
+    <Text>
+      <GUID>1500010429</GUID>
+      <Text>Диагональное озеленение площади</Text>
+    </Text>
+    <Text>
+      <GUID>1500010431</GUID>
+      <Text>Диагональное озеленение на камне</Text>
+    </Text>
+    <Text>
+      <GUID>1500010432</GUID>
+      <Text>Зелень на камне</Text>
+    </Text>
+    <Text>
+      <GUID>1500011186</GUID>
+      <Text>Угловой вариант</Text>
+    </Text>
+    <Text>
+      <GUID>1500010433</GUID>
+      <Text>Диагональная дорожка</Text>
+    </Text>
+    <Text>
+      <GUID>1500010439</GUID>
+      <Text>Восьмиугольная дорожка</Text>
+    </Text>
+    <Text>
+      <GUID>1500010436</GUID>
+      <Text>Диагональное ограждение на площади</Text>
+    </Text>
+    <Text>
+      <GUID>1500010437</GUID>
+      <Text>Восьмигранный забор на площади</Text>
+    </Text>
+    <Text>
+      <GUID>1500010438</GUID>
+      <Text>Изогнутый забор на площади</Text>
+    </Text>
+    <Text>
+      <GUID>1500011180</GUID>
+      <Text>Диагональная ограда на камне</Text>
+    </Text>
+    <Text>
+      <GUID>1500011181</GUID>
+      <Text>Восьмигранный забор из камня</Text>
+    </Text>
+    <Text>
+      <GUID>1500011182</GUID>
+      <Text>Изогнутый забор на камне</Text>
+    </Text>
+    <Text>
+      <GUID>1500011183</GUID>
+      <Text>Диагональный забор на траве</Text>
+    </Text>
+    <Text>
+      <GUID>1500011184</GUID>
+      <Text>Восьмигранный забор на траве</Text>
+    </Text>
+    <Text>
+      <GUID>1500011185</GUID>
+      <Text>Изогнутый забор на траве</Text>
+    </Text>
+    <Text>
+      <GUID>1500011171</GUID>
+      <Text>Диагональные украшения</Text>
+    </Text>
+    <Text>
+      <GUID>1500011200</GUID>
+      <Text>[AssetData(1500010428) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1500011203</GUID>
+      <Text>[AssetData(1500010429) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1500011201</GUID>
+      <Text>[AssetData(1500010431) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1500011202</GUID>
+      <Text>[AssetData(1500010432) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1500011204</GUID>
+      <Text>[AssetData(1500011171) Text]</Text>
+    </Text>
+  </ModOp>
+</ModOps>
