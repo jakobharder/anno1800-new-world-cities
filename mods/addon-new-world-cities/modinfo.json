@@ -1,6 +1,6 @@
 {
   "out": "${annoMods}/[Addon] New World Cities (Jakob)",
-  "Version": "2.2.10",
+  "Version": "2.2.11",
   "ModID": "jakob_new_world_cities",
   "ModioResourceId": 3229897,
   "DeprecateIds": [
@@ -24,8 +24,8 @@
   "bundle": [
     "../../sub/jakob-diagonal-ornaments",
     "../../sub/jakob-skyscraper-button",
-    "https://github.com/jakobharder/anno1800-shared-mods/releases/download/v4.5.2/cheese-jakob.zip",
-    "https://github.com/jakobharder/anno1800-shared-mods/releases/download/v4.5.2/sardines-jakob.zip"
+    "https://github.com/jakobharder/anno1800-shared-mods/releases/download/v4.5.5/cheese-jakob.zip",
+    "https://github.com/jakobharder/anno1800-shared-mods/releases/download/v4.5.5/sardines-jakob.zip"
   ],
   "Category": {
     "Chinese": "插件",
