@@ -46,6 +46,7 @@
   <!-- Needs -->
   <Include File="/data/jakob/milk-collector/_assets.include.xml" />
   <Include File="/data/jakob/nw-needs/_assets.include.xml" />
+  <Include File="./productlists.include.xml" />
 
   <Include File="./banners.include.xml" />
   <Include File="./unlocks.include.xml" />

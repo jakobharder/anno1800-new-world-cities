@@ -1,0 +1,55 @@
+<ModOps>
+  <!-- # Marketplace -->
+  <!-- After Tortilla -->
+  <ModOp Type="addNextSibling" GUID="120058"
+    Condition="!~/Values/ProductList/List/Item[Product='1500010102']"
+    Path="/Values/ProductStorageList/ProductList/Item[Product='120035']">
+    <Item>
+      <Product>1010213</Product>
+    </Item>
+    <Item>
+      <Product>1500010102</Product>
+    </Item>
+  </ModOp>
+
+  <!-- # All Colony -->
+  <!-- After Tortilla -->
+  <ModOp Type="addNextSibling" GUID="502023"
+    Condition="!~/Values/ProductList/List/Item[Product='1500010102']"
+    Path="/Values/ProductList/List/Item[Product='120035']">
+    <Item>
+      <Product>1010213</Product>
+    </Item>
+    <Item>
+      <Product>1500010102</Product>
+    </Item>
+  </ModOp>
+
+  <!-- # Consumer Colony -->
+  <!-- After Tortilla -->
+  <ModOp Type="addNextSibling" GUID="502001"
+    Condition="!~/Values/ProductList/List/Item[Product='1500010102']"
+    Path="/Values/ProductList/List/Item[Product='120035']">
+    <Item>
+      <Product>1010213</Product>
+    </Item>
+    <Item>
+      <Product>1500010102</Product>
+    </Item>
+  </ModOp>
+
+  <!-- # Agriculture Europe -->
+
+  <!-- # Workforce Goods -->
+  <!-- After Tortilla -->
+  <ModOp Type="addNextSibling" GUID="502009"
+    Condition="!~/Values/ProductList/List/Item[Product='1500010102']"
+    Path="/Values/ProductList/List/Item[Product='120035']">
+    <Item>
+      <Product>1010213</Product>
+    </Item>
+    <Item>
+      <Product>1500010102</Product>
+    </Item>
+  </ModOp>
+</ModOps>
