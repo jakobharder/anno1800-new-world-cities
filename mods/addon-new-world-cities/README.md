@@ -93,6 +93,8 @@ Only with DLC `New World Rising`.
 
 ### 2.2
 
+- 2.2.11: Support mod "buildable residences"
+- 2.2.11: Fixed Cheese missing in warehouse when used without Industrial Cities
 - 2.2.8: Improved Russian translations thanks to DATM
 - 2.2.5: Minor fixes
 - 2.2.5: Added missing translations
